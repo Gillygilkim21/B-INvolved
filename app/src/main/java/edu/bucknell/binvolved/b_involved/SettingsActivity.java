@@ -1,4 +1,4 @@
-// BLAH BLAH BLAH
+// BLAH BLAH BLAH BLAH
 
 package edu.bucknell.binvolved.b_involved;
 
